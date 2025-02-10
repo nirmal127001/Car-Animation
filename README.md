@@ -9,4 +9,4 @@
 - click sun/moon to toggle day and night
 
 ## Deployment
-[https://car-animation.herokuapp.com/](https://nirmal127001.github.io/Car-Animation/)
+[Visit the link](https://nirmal127001.github.io/Car-Animation/)
